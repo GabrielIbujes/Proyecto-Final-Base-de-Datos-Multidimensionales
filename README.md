@@ -1,5 +1,5 @@
 # Proyecto-Final-Base-de-Datos-Multidimensionales
-ESCUELA POLITÉCNICA NACIONAL
+#ESCUELA POLITÉCNICA NACIONAL
 ESFOT
 
 
